@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Replace YOUR_AVATAR_IMAGE_URL below with the hosted link of your profile avatar -->
+  <!-- Apni avatar image (Screenshot 2026-11-23 192216.png) ko repo ya kisi image host par upload karke neeche link daal dena -->
   <!-- <img src="YOUR_AVATAR_IMAGE_URL" alt="Neha Deshwal Avatar" width="150" style="border-radius: 50%;" /> -->
 
   # 👋 Hey, I'm Neha Deshwal
@@ -11,7 +11,7 @@
 
   <br/>
 
-  <a href="https://linkedin.com/in/neha-deshwal-9960300">
+  <a href="https://www.linkedin.com/in/neha-deshwal-996o300?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:nehadeshwal@outlook.com">
@@ -24,13 +24,13 @@
 
 ## 🌟 About Me
 
-I'm a Computer Science & Engineering undergraduate at **Bhagwan Parshuram Institute of Technology (BPIT), Delhi**, passionate about transforming ideas into real-world applications through clean code, thoughtful architecture, and creative problem-solving.
+I'm a Computer Science & Engineering undergraduate at **Bhagwan Parshuram Institute of Technology (BPIT), Delhi**, who loves turning ideas into real-world applications through clean code, thoughtful architecture, and modern technologies.
 
 * 🎓 **B.Tech CSE (2024 – 2028)** @ BPIT, Delhi-NCR
 * 💻 **Full Stack Developer** experienced with **MERN Stack** and **Python (Django & FastAPI)**
-* 🔗 **Blockchain Explorer** building with **Ethereum & Solidity**
-* 🧠 **Backend & Systems Focus:** Scalable APIs, database optimization, and clean state/auth patterns
-* 🚀 **Builder Mindset:** Always excited to ship practical, high-impact software
+* 🔗 **Blockchain Enthusiast** building with **Ethereum & Solidity**
+* 🧠 **Engineering Focus:** Scalable backends, database optimization, and clean APIs
+* 🚀 **Always Building:** Turning practical ideas into impactful products
 
 ---
 
@@ -66,45 +66,74 @@ I'm a Computer Science & Engineering undergraduate at **Bhagwan Parshuram Instit
 ### 🇮🇳 Samvidhan Setu — *Connecting Citizens with the Constitution of India*
 > **Status:** 🚧 *In Development*
 
-A mission-driven platform designed to make the Constitution of India and legal concepts clearer, searchable, and more accessible through modern software.
+A platform aimed at making the Constitution of India and legal information easier to discover, explore, and understand through technology.
 
-* 📖 **Explore & Learn:** Navigate constitutional articles and core legal topics intuitively.
-* ⚖️ **Simplified Legal Access:** Break down complex legal information into easy-to-grasp insights.
-* 🔍 **Topic Discovery:** Help citizens find relevant articles and legal themes effortlessly.
-* 🤖 **Intelligent Assistance:** Working toward an intelligent experience for constitutional and legal queries.
-* 🇮🇳 **Civic Awareness:** Promoting everyday legal literacy via an accessible digital platform.
+* 📖 **Explore & Learn:** Browse constitutional articles and key legal topics clearly.
+* ⚖️ **Accessible Legal Info:** Simplify legal concepts for everyday understanding.
+* 🔍 **Smart Discovery:** Help users find relevant constitutional provisions and themes.
+* 🤖 **Intelligent Queries:** Building toward a smart assistant for constitutional and legal questions.
+* 🇮🇳 **Civic Awareness:** Spreading legal literacy through an accessible digital platform.
 
 ---
 
-## 🚀 Other Projects
+## 🚀 Projects
 
 ### 🛒 Artisano — Multi-Vendor E-Commerce Platform
-*<sub>Feb 2026 – Apr 2026</sub>* &nbsp;|&nbsp; **Tech:** `MongoDB` `Express.js` `React.js` `Node.js` `Redux Toolkit` `Helmet`
-* Built a multi-vendor e-commerce platform supporting catalog and marketplace workflows.
-* Optimized **MongoDB aggregation pipelines**, cutting data retrieval time by **~20%**.
-* Benchmarked and improved API performance using **Postman** and **JMeter**.
-* Strengthened client state and HTTP security using **Redux Toolkit** and **Helmet**.
+*<sub>Feb 2026 – Apr 2026</sub>* &nbsp;|&nbsp; **Stack:** `MongoDB` `Express.js` `React.js` `Node.js` `Redux Toolkit` `Helmet`
+
+<details>
+<summary><strong>📌 Key Highlights & Impact</strong></summary>
+<br/>
+
+* Built a multi-vendor e-commerce platform supporting marketplace workflows.
+* Optimized **MongoDB aggregation pipelines**, reducing data retrieval time by **20%**.
+* Improved API performance using **Postman** and **JMeter**.
+* Implemented **Redux Toolkit** for state management and **Helmet** for HTTP security.
+
+</details>
 
 ### ⛓️ Decentralized Voting System
-*<sub>Apr 2026 – Present</sub>* &nbsp;|&nbsp; **Tech:** `Ethereum` `Solidity` `FastAPI` `Node.js` `MySQL` `JWT`
-* Developing **Solidity smart contracts** for transparent, tamper-resistant voting records.
-* Integrating **FastAPI** and **Node.js** backend services with **MySQL** and **JWT** auth.
-* Exploring **MetaMask**-powered decentralized transaction flows.
+*<sub>Apr 2026 – Present</sub>* &nbsp;|&nbsp; **Stack:** `Ethereum` `Solidity` `FastAPI` `Node.js` `MySQL` `JWT`
+
+<details>
+<summary><strong>📌 Key Highlights & Impact</strong></summary>
+<br/>
+
+* Developing smart contracts in **Solidity** for tamper-proof voting records.
+* Integrating **FastAPI** and **Node.js** backends with **MySQL** and **JWT** authentication.
+* Exploring **MetaMask**-based decentralized transaction workflows.
+
+</details>
 
 ### 🏥 HealthSync — Healthcare Appointment System
-*<sub>Jun 2025 – Aug 2025</sub>* &nbsp;|&nbsp; **Tech:** `Python` `Django` `MySQL` `React.js` `Celery` `Redis`
-* Architected a full-stack healthcare appointment scheduling application.
-* Automated reminders and notifications using **Celery** and **Redis**, reducing user no-shows by **~15%**.
-* Improved database query efficiency by **~10%**.
+*<sub>Jun 2025 – Aug 2025</sub>* &nbsp;|&nbsp; **Stack:** `Python` `Django` `MySQL` `React.js` `Celery` `Redis`
+
+<details>
+<summary><strong>📌 Key Highlights & Impact</strong></summary>
+<br/>
+
+* Architected a full-stack healthcare appointment booking system.
+* Automated notifications and reminders with **Celery** and **Redis**, reducing no-shows by **~15%**.
+* Improved database query efficiency by **10%**.
+
+</details>
 
 ### ✅ Smart Task Manager
-*<sub>Oct 2024 – Dec 2024</sub>* &nbsp;|&nbsp; **Tech:** `Node.js` `Express.js` `React.js` `MongoDB` `JWT`
-* Built a secure task management web app with **JWT authentication** and strict **user-specific data isolation**.
-* Refined frontend rendering and **MongoDB** queries for smoother everyday task tracking.
+*<sub>Oct 2024 – Dec 2024</sub>* &nbsp;|&nbsp; **Stack:** `Node.js` `Express.js` `React.js` `MongoDB` `JWT`
+
+<details>
+<summary><strong>📌 Key Highlights & Impact</strong></summary>
+<br/>
+
+* Built a secure task management web application with **JWT authentication**.
+* Enforced strict **user-specific data isolation**.
+* Optimized frontend rendering and **MongoDB** queries.
+
+</details>
 
 ---
 
-## 🏆 Hackathons & Activities
+## 🏆 Achievements & Activities
 
 * 🏅 **Top 10 Team** — *HackXtract Hackathon*, MAIT *(March 2026)*
 * 🎯 **Participant** — *InnoVault IIIC*, DTU *(February 2026)*
@@ -115,27 +144,27 @@ A mission-driven platform designed to make the Constitution of India and legal c
 ## 🎓 Education
 
 **Bhagwan Parshuram Institute of Technology (BPIT)** — *Delhi-NCR, India*  
-**Bachelor of Technology (B.Tech) in Computer Science & Engineering** | `2024 – 2028`  
-* **Core Coursework:** Data Structures & Algorithms • Database Management Systems (DBMS) • Operating Systems • Computer Networks
+**Bachelor of Technology – Computer Science & Engineering** | `2024 – 2028`  
+* **Relevant Coursework:** Data Structures & Algorithms • DBMS • Operating Systems • Computer Networks
 
 ---
 
 ## 🤝 Let's Connect!
 
-Have an exciting project, hackathon idea, or full-stack / backend / Web3 opportunity? Let's build something great together!
+Got a cool project idea, hackathon team, or software engineering opportunity? Let's connect!
 
 <div align="center">
 
+  <a href="https://www.linkedin.com/in/neha-deshwal-996o300?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+    <img src="https://img.shields.io/badge/LinkedIn-Neha%20Deshwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
   <a href="mailto:nehadeshwal@outlook.com">
     <img src="https://img.shields.io/badge/Email-nehadeshwal@outlook.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
-  </a>
-  <a href="https://linkedin.com/in/neha-deshwal-9960300">
-    <img src="https://img.shields.io/badge/LinkedIn-Neha%20Deshwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
 
   <br/><br/>
 
   ### ✨ *"Code. Create. Innovate. Repeat."*
-  Thanks for stopping by my profile! 💙
+  Thanks for visiting my GitHub profile! 💙
 
 </div>
