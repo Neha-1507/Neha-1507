@@ -1,184 +1,141 @@
-# 👋 Hey, I'm Neha Deshwal!
+<div align="center">
 
-### 💻 Full Stack Developer | MERN Stack | Python | Blockchain Enthusiast
+  <!-- Replace YOUR_AVATAR_IMAGE_URL below with the hosted link of your profile avatar -->
+  <!-- <img src="YOUR_AVATAR_IMAGE_URL" alt="Neha Deshwal Avatar" width="150" style="border-radius: 50%;" /> -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Ideas+Into+Reality+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;Exploring+Blockchain+%26+AI+%F0%9F%A7%A0;Always+Learning%2C+Always+Building+%E2%9C%A8" alt="Typing SVG" />
-</p>
+  # 👋 Hey, I'm Neha Deshwal
 
-<p align="center">
+  **Full Stack Developer | MERN Stack | Python & Django | Blockchain Enthusiast**
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=660&lines=Turning+Ideas+Into+Real-World+Apps+%F0%9F%9A%80;Full+Stack+Web+%26+Backend+Builder+%F0%9F%92%BB;Exploring+Ethereum%2C+Solidity+%26+AI+%E2%9A%A1;Always+Learning%2C+Always+Ship+Clean+Code+%E2%9C%A8" alt="Typing SVG" />
+
+  <br/>
+
   <a href="https://linkedin.com/in/neha-deshwal-9960300">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:nehadeshwal@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
+
+</div>
 
 ---
 
 ## 🌟 About Me
 
-I'm a Computer Science undergraduate at **Bhagwan Parshuram Institute of Technology (BPIT)**, Delhi.
+I'm a Computer Science & Engineering undergraduate at **Bhagwan Parshuram Institute of Technology (BPIT), Delhi**, passionate about transforming ideas into real-world applications through clean code, thoughtful architecture, and creative problem-solving.
 
-I love transforming ideas into real-world applications through clean code, creative problem-solving, and modern technologies.
-
-- 🎓 B.Tech CSE | 2024 – 2028
-- 💻 Full Stack Web Developer
-- ⚡ Experienced with MERN Stack & Python/Django
-- 🔗 Exploring Ethereum Blockchain & Smart Contracts
-- 🧠 Interested in scalable systems, backend engineering & database optimization
-- 🚀 Always excited to build something impactful!
+* 🎓 **B.Tech CSE (2024 – 2028)** @ BPIT, Delhi-NCR
+* 💻 **Full Stack Developer** experienced with **MERN Stack** and **Python (Django & FastAPI)**
+* 🔗 **Blockchain Explorer** building with **Ethereum & Solidity**
+* 🧠 **Backend & Systems Focus:** Scalable APIs, database optimization, and clean state/auth patterns
+* 🚀 **Builder Mindset:** Always excited to ship practical, high-impact software
 
 ---
 
-# 🔥 Featured Project
+## 💻 Tech Stack
 
-## 🇮🇳 Samvidhan Setu
-### Connecting Citizens with the Constitution of India
-
-A project focused on making the Constitution of India and legal information more accessible through technology.
-
-**✨ Project Vision**
-- 📖 Explore and understand the Constitution of India.
-- ⚖️ Make legal information easier to access and understand.
-- 🔍 Help users explore constitutional articles and legal topics.
-- 🤖 Build an intelligent platform for constitutional and legal queries.
-- 🇮🇳 Promote legal awareness through a digital platform.
-
-**Status:** 🚧 In Development
-
----
-
-# 🚀 Other Projects
-
-### 🛒 Artisano – Multi-Vendor E-Commerce Platform
-<sub>February 2026 – April 2026</sub>
-
-- Developed a multi-vendor e-commerce platform.
-- Optimized MongoDB aggregation pipelines, reducing data retrieval time by 20%.
-- Improved API performance using Postman and JMeter.
-- Implemented Redux Toolkit and Helmet for state and security management.
-
-**Tech:** `MongoDB` `Express.js` `React.js` `Node.js` `Redux Toolkit`
+<table>
+  <tr>
+    <td align="center" width="180"><strong>Languages</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=python,java,js,html,css" alt="Languages" /></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Frontend</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=react,tailwind,redux" alt="Frontend" /></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Backend</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" alt="Backend" /></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Databases & Tools</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,git,github,linux,postman" alt="Databases and Tools" /></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Blockchain</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=solidity,ethereum" alt="Blockchain" /></td>
+  </tr>
+</table>
 
 ---
 
-### 🏥 HealthSync – Healthcare Appointment System
-<sub>June 2025 – August 2025</sub>
+## 🔥 Featured Project
 
-- Architected a full-stack healthcare appointment system.
-- Automated notifications and reminders using Celery and Redis.
-- Reduced user no-show rates by approximately 15%.
-- Improved database query efficiency by 10%.
+### 🇮🇳 Samvidhan Setu — *Connecting Citizens with the Constitution of India*
+> **Status:** 🚧 *In Development*
 
-**Tech:** `Python` `Django` `MySQL` `React.js` `Celery` `Redis`
+A mission-driven platform designed to make the Constitution of India and legal concepts clearer, searchable, and more accessible through modern software.
 
----
-
-### ✅ Smart Task Manager
-<sub>October 2024 – December 2024</sub>
-
-- Developed a secure task management application.
-- Implemented JWT-based authentication.
-- Created user-specific data isolation.
-- Optimized frontend rendering and MongoDB queries.
-
-**Tech:** `Node.js` `Express.js` `React.js` `MongoDB` `JWT`
+* 📖 **Explore & Learn:** Navigate constitutional articles and core legal topics intuitively.
+* ⚖️ **Simplified Legal Access:** Break down complex legal information into easy-to-grasp insights.
+* 🔍 **Topic Discovery:** Help citizens find relevant articles and legal themes effortlessly.
+* 🤖 **Intelligent Assistance:** Working toward an intelligent experience for constitutional and legal queries.
+* 🇮🇳 **Civic Awareness:** Promoting everyday legal literacy via an accessible digital platform.
 
 ---
+
+## 🚀 Other Projects
+
+### 🛒 Artisano — Multi-Vendor E-Commerce Platform
+*<sub>Feb 2026 – Apr 2026</sub>* &nbsp;|&nbsp; **Tech:** `MongoDB` `Express.js` `React.js` `Node.js` `Redux Toolkit` `Helmet`
+* Built a multi-vendor e-commerce platform supporting catalog and marketplace workflows.
+* Optimized **MongoDB aggregation pipelines**, cutting data retrieval time by **~20%**.
+* Benchmarked and improved API performance using **Postman** and **JMeter**.
+* Strengthened client state and HTTP security using **Redux Toolkit** and **Helmet**.
 
 ### ⛓️ Decentralized Voting System
-<sub>April 2026 – Present</sub>
+*<sub>Apr 2026 – Present</sub>* &nbsp;|&nbsp; **Tech:** `Ethereum` `Solidity` `FastAPI` `Node.js` `MySQL` `JWT`
+* Developing **Solidity smart contracts** for transparent, tamper-resistant voting records.
+* Integrating **FastAPI** and **Node.js** backend services with **MySQL** and **JWT** auth.
+* Exploring **MetaMask**-powered decentralized transaction flows.
 
-- Developing smart contracts using Solidity.
-- Building secure and tamper-proof voting records.
-- Integrating FastAPI and Node.js with MySQL.
-- Exploring MetaMask-based decentralized transactions.
+### 🏥 HealthSync — Healthcare Appointment System
+*<sub>Jun 2025 – Aug 2025</sub>* &nbsp;|&nbsp; **Tech:** `Python` `Django` `MySQL` `React.js` `Celery` `Redis`
+* Architected a full-stack healthcare appointment scheduling application.
+* Automated reminders and notifications using **Celery** and **Redis**, reducing user no-shows by **~15%**.
+* Improved database query efficiency by **~10%**.
 
-**Tech:** `Ethereum` `Solidity` `FastAPI` `Node.js` `MySQL` `JWT`
-
----
-
-# 💻 Tech Stack
-
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
-</p>
-
-### Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,redux" />
-</p>
-
-### Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" />
-</p>
-
-### Database & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,git,github,linux,postman" />
-</p>
-
-### Blockchain
-<p>
-  <img src="https://skillicons.dev/icons?i=solidity,ethereum" />
-</p>
+### ✅ Smart Task Manager
+*<sub>Oct 2024 – Dec 2024</sub>* &nbsp;|&nbsp; **Tech:** `Node.js` `Express.js` `React.js` `MongoDB` `JWT`
+* Built a secure task management web app with **JWT authentication** and strict **user-specific data isolation**.
+* Refined frontend rendering and **MongoDB** queries for smoother everyday task tracking.
 
 ---
 
-# 🏆 Achievements & Activities
+## 🏆 Hackathons & Activities
 
-🏅 **Top 10 Team** – HackXtract Hackathon, MAIT (March 2026)
-
-🎯 **Participant** – InnoVault IIIC, DTU (February 2026)
-
-💡 **Participant** – SPEEDATHON, IEEE (October 2025)
+* 🏅 **Top 10 Team** — *HackXtract Hackathon*, MAIT *(March 2026)*
+* 🎯 **Participant** — *InnoVault IIIC*, DTU *(February 2026)*
+* 💡 **Participant** — *SPEEDATHON*, IEEE *(October 2025)*
 
 ---
 
-# 🎓 Education
+## 🎓 Education
 
-**Bhagwan Parshuram Institute of Technology (BPIT)**
-
-Bachelor of Technology – Computer Science & Engineering
-
-📍 Delhi-NCR, India
-
-📅 2024 – 2028
-
-**Relevant Coursework:** Data Structures & Algorithms | DBMS | Operating Systems | Computer Networks
+**Bhagwan Parshuram Institute of Technology (BPIT)** — *Delhi-NCR, India*  
+**Bachelor of Technology (B.Tech) in Computer Science & Engineering** | `2024 – 2028`  
+* **Core Coursework:** Data Structures & Algorithms • Database Management Systems (DBMS) • Operating Systems • Computer Networks
 
 ---
 
-# 📊 GitHub Analytics
+## 🤝 Let's Connect!
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+Have an exciting project, hackathon idea, or full-stack / backend / Web3 opportunity? Let's build something great together!
 
-<p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
----
-
-# 🤝 Let's Connect!
-
-<p align="center">
   <a href="mailto:nehadeshwal@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Let's%20Talk-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-nehadeshwal@outlook.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
   </a>
   <a href="https://linkedin.com/in/neha-deshwal-9960300">
-    <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Neha%20Deshwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
-</p>
 
-<p align="center">
-  ### ✨ "Code. Create. Innovate. Repeat."
-  <br/>
-  Thanks for visiting my GitHub profile! 💙
-</p>
+  <br/><br/>
+
+  ### ✨ *"Code. Create. Innovate. Repeat."*
+  Thanks for stopping by my profile! 💙
+
+</div>
